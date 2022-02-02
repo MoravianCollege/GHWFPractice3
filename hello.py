@@ -1,2 +1,2 @@
-
-print("Hello, world!!!!!!!!!")
+Authors: 
+print("Hello, world")
